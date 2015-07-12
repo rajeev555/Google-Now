@@ -1,2 +1,2 @@
 # Google-Now
-![alt tag](google now.gif)
+![alt tag](google_now.gif)
